@@ -1,0 +1,18 @@
+.twoTimesButton {
+  font-weight: bold;
+  margin-left: -20px;
+  color: #bb0000;
+  background: transparent;
+  border: 1px solid #bb0000;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  padding: 5px;
+  width: 30px;
+  outline: none;
+}
+
+.speedChangerActive {
+  background: #bb0000;
+  color: #fff;
+  border: 1px solid #fff;
+}
